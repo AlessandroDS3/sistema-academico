@@ -1,0 +1,20 @@
+﻿# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Dependencias y compilados comunes
+node_modules/
+target/
+build/
+dist/
+__pycache__/
+*.pyc
+*.class
+
+# Variables de entorno
+.env
+.env.*
